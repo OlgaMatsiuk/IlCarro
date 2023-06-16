@@ -29,6 +29,4 @@ public class LoginTests extends TestBase{
 
     }
 
-
-    //nav[@class='menuCategory']/ul/li[1]//span
 }
