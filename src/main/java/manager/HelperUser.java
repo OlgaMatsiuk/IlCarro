@@ -1,7 +1,10 @@
 package manager;
 
+import models.User;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class HelperUser extends HelperBase{
 
@@ -21,10 +24,18 @@ public class HelperUser extends HelperBase{
         type(By.xpath("//input[@id='password']"), password);
 
     }
+    public void fillLoginForm(User user) {
+        type(By.xpath("//input[@id='email']"), user.getEmail());
+        type(By.xpath("//input[@id='password']"), user.getPassword());
+
+    }
+    //method signature : type + name + parameters types
     public void confirmMessage(){
         click(By.xpath("//button[normalize-space()='Ok']"));
     }
     public boolean isLogged() {
+       // WebDriverWait wait = new WebDriverWait(wd,10);
+       // wait.until(ExpectedConditions.visibilityOf(wd.findElement(By.partialLinkText("success"))));
         return isElementPresent(By.xpath("//a[.=' Logout ']"));
     }
     public void logout() {
