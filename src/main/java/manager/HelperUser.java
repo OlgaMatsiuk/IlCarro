@@ -12,8 +12,19 @@ public class HelperUser extends HelperBase{
     public HelperUser(WebDriver wd) {
         super(wd);
     }
-    public void openLoginForm() {
-        click(By.xpath("//a[.=' Log in ']"));
+//    public void openLoginForm() {
+//        click(By.xpath("//a[.=' Log in ']"));
+//    }
+//
+//    public void openRegistrationForm() {
+//        click(By.xpath("//a[.=' Sign Up ']"));
+//    }
+    public void openLoginForm(){
+        click(By.xpath("//a[text()=' Log in ']"));
+    }
+
+    public void openRegistrationForm(){
+        click(By.xpath("//a[text()=' Sign up ']"));
     }
 
     public void submitLogin() {
@@ -29,6 +40,15 @@ public class HelperUser extends HelperBase{
         type(By.xpath("//input[@id='password']"), user.getPassword());
 
     }
+    public void fillRegistrationForm(User user) {
+        type(By.xpath("//input[@id='name']"), user.getName());
+        type(By.xpath("//input[@id='lastName']"), user.getLastName());
+        type(By.xpath("//input[@id='email']"), user.getEmail());
+        type(By.xpath("//input[@id='password']"), user.getPassword());
+        click(By.cssSelector("label[for='terms-of-use']"));
+
+    }
+
     //method signature : type + name + parameters types
     public void confirmMessage(){
         click(By.xpath("//button[normalize-space()='Ok']"));
@@ -45,6 +65,14 @@ public class HelperUser extends HelperBase{
 //        click(By.xpath("//a[.=' Logout ']"));
        // wd.navigate().to("https://ilcarro.web.app/search");
     }
+
+    public void login(User user) {
+        openLoginForm();
+        fillLoginForm(user);
+        submitLogin();
+        confirmMessage();
+    }
+
 
 
 }

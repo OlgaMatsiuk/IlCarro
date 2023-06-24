@@ -32,9 +32,9 @@ public class LoginTests extends TestBase {
 
     @Test
     public void loginPositiveUser() {
-        //String email = "matsiuk2015@gmail.com", password="Aravaavara0#";
+        String email = "matsiuk2015@gmail.com", password="Aravaavara0#";
 
-        User user = new User().withEmail("matsiuk2015@gmail.com").withPassword("Aravaavara0#");
+        User user = new User().withEmail(email).withPassword(password);
 
 
         app.getUser().openLoginForm();
