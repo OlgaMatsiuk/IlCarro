@@ -1,0 +1,1 @@
+12:35:58 INFO  tests.TestBase - Registration test starts with data: john2156@gmail.com&Dfr#12584tre

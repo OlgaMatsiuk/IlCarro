@@ -88,8 +88,8 @@ public class HelperUser extends HelperBase{
     public void checkboxClick() {
 
         //variant 1
-        JavascriptExecutor js = (JavascriptExecutor) wd;
-        js.executeScript("document.querySelector('#terms-of-use').click()");
+//        JavascriptExecutor js = (JavascriptExecutor) wd;
+//        js.executeScript("document.querySelector('#terms-of-use').click()");
 
         //variant 2
 

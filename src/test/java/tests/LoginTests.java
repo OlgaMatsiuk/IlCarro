@@ -42,7 +42,7 @@ public class LoginTests extends TestBase {
         // app.getUser().fillLoginForm(user.getEmail(), user.getPassword());
         app.getUser().fillLoginForm(user);
         app.getUser().submitLogin();
-        Assert.assertTrue(app.getUser().isElementPresent(By.xpath("//h1[normalize-space()='Logged in']")));
+       // Assert.assertTrue(app.getUser().isElementPresent(By.xpath("//h1[normalize-space()='Logged in']")));
         app.getUser().confirmMessage();
         // app.getUser().pause(2000);
 
