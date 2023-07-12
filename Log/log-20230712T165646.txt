@@ -1,0 +1,1 @@
+16:56:48 INFO  manager.ApplicationManager - Test start on Chrome

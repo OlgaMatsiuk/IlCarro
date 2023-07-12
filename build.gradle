@@ -23,3 +23,28 @@ dependencies {
 test {
     useTestNG()
 }
+
+task smokeTest(type: Test) {
+  useTestNG(){
+      def groups = System.getProperty('groups')
+      def suite = System.getProperty('suite','')
+      if(suite.equals('add')){
+          suites 'src/test/resources/add.xml'
+      } else if(suite.equals('regist')){
+          suites 'src/test/resources/regist.xml'
+      } else if(suite.equals('sanity')){
+          suites 'src/test/resources/sanity.xml'
+      } else {
+          suites 'src/test/resources/testng.xml'
+      }
+
+      if(groups!=null) {
+          includeGroups groups
+
+      }
+  }
+    if(project.hasProperty('browser')){
+        systemProperty 'browser',"${browser}"
+    }
+
+}

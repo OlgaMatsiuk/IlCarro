@@ -1,0 +1,80 @@
+20:52:52 INFO  manager.ApplicationManager - Test start on Chrome
+20:52:54 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[.=' Logout ']
+20:52:57 INFO  manager.MyListener - Element with locator -->By.xpath: //a[.=' Logout ']is found
+20:52:57 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[text()=' Log in ']
+20:52:57 INFO  manager.MyListener - Element with locator -->By.xpath: //a[text()=' Log in ']is found
+20:52:57 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='email']
+20:52:57 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='email']is found
+20:52:57 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='password']
+20:52:57 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='password']is found
+20:52:57 INFO  manager.MyListener - Start searching element by locator -->By.cssSelector: button[type='submit']
+20:52:57 INFO  manager.MyListener - Element with locator -->By.cssSelector: button[type='submit']is found
+20:52:57 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //button[normalize-space()='Ok']
+20:52:58 INFO  manager.MyListener - Element with locator -->By.xpath: //button[normalize-space()='Ok']is found
+20:52:58 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[.=' Logout ']
+20:52:58 INFO  manager.MyListener - Element with locator -->By.xpath: //a[.=' Logout ']is found
+20:52:58 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[normalize-space()='Logout']
+20:52:58 INFO  manager.MyListener - Element with locator -->By.xpath: //a[normalize-space()='Logout']is found
+20:52:58 INFO  tests.TestBase - User: models.User@1643d68f is provided
+20:52:58 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[text()=' Log in ']
+20:52:58 INFO  manager.MyListener - Element with locator -->By.xpath: //a[text()=' Log in ']is found
+20:52:58 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='email']
+20:53:17 INFO  manager.MyListener - Something went wrong
+20:53:17 INFO  manager.MyListener - no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='email']"}
+  (Session info: chrome=114.0.5735.199)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-674QB042', ip: '192.168.1.109', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_341'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.199, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\Kiril\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63324}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 10b6fae78f33985335f5b1e73d966895
+*** Element info: {Using=xpath, value=//input[@id='email']}
+20:53:17 INFO  manager.MyListener - no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='email']"}
+  (Session info: chrome=114.0.5735.199)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-674QB042', ip: '192.168.1.109', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_341'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.199, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\Kiril\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63324}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 10b6fae78f33985335f5b1e73d966895
+*** Element info: {Using=xpath, value=//input[@id='email']}
+20:53:17 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[.=' Logout ']
+20:53:18 INFO  manager.MyListener - Something went wrong
+20:53:18 INFO  manager.MyListener - no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.199)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-674QB042', ip: '192.168.1.109', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_341'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.199, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\Kiril\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63324}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 10b6fae78f33985335f5b1e73d966895
+*** Element info: {Using=xpath, value=//a[.=' Logout ']}
+20:53:18 INFO  manager.MyListener - no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.199)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-674QB042', ip: '192.168.1.109', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_341'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.199, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\Kiril\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63324}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 10b6fae78f33985335f5b1e73d966895
+*** Element info: {Using=xpath, value=//a[.=' Logout ']}
+20:53:18 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[.=' Logout ']
+20:53:18 INFO  manager.MyListener - Something went wrong
+20:53:18 INFO  manager.MyListener - no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.199)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-674QB042', ip: '192.168.1.109', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_341'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.199, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\Kiril\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63324}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 10b6fae78f33985335f5b1e73d966895
+*** Element info: {Using=xpath, value=//a[.=' Logout ']}
+20:53:18 INFO  manager.MyListener - no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.199)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-674QB042', ip: '192.168.1.109', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_341'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.199, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\Kiril\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63324}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 10b6fae78f33985335f5b1e73d966895
+*** Element info: {Using=xpath, value=//a[.=' Logout ']}

@@ -1,0 +1,9 @@
+12:57:51 INFO  manager.ApplicationManager - Test start on Chrome
+12:57:55 INFO  manager.MyListener - Start searching element by locator -->By.id: city
+12:57:55 INFO  manager.MyListener - Element with locator -->By.id: cityis found
+12:57:58 INFO  manager.MyListener - Start searching element by locator -->By.cssSelector: div.pac-item
+12:57:58 INFO  manager.MyListener - Element with locator -->By.cssSelector: div.pac-itemis found
+12:58:01 INFO  manager.MyListener - Start searching element by locator -->By.id: dates
+12:58:01 INFO  manager.MyListener - Element with locator -->By.id: datesis found
+12:58:03 INFO  manager.MyListener - Start searching element by locator -->By.cssSelector: button[type='submit']
+12:58:03 INFO  manager.MyListener - Element with locator -->By.cssSelector: button[type='submit']is found

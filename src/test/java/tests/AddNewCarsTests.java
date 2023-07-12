@@ -12,7 +12,7 @@ public class AddNewCarsTests extends TestBase {
     //attach photo
     //submit form
 
-    @BeforeMethod
+    @BeforeMethod(alwaysRun = true)
     public void precondition() {
         if(app.getUser().isLogged()==false){
 
@@ -25,7 +25,7 @@ public class AddNewCarsTests extends TestBase {
 
     }
 
-    @Test
+    @Test(invocationCount = 3, groups = {"sanity"})
 
     public void addNewCarPositive() {
         int i = (int)(System.currentTimeMillis()/1000)%3600;

@@ -38,8 +38,5 @@ public class MyListener extends AbstractWebDriverEventListener {
         helperBase.takeScreenShot(link);
         logger.info("This is a link to screenshot with error:"+link);
 
-
-
-
     }
 }

@@ -1,0 +1,59 @@
+21:02:55 INFO  manager.ApplicationManager - Test start on Chrome
+21:02:56 INFO  tests.TestBase - User: models.User@5c3b6c6e is provided
+21:02:56 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[text()=' Sign up ']
+21:02:56 INFO  manager.MyListener - Element with locator -->By.xpath: //a[text()=' Sign up ']is found
+21:02:57 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='name']
+21:02:57 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='name']is found
+21:02:57 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='lastName']
+21:02:57 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='lastName']is found
+21:02:57 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='email']
+21:02:57 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='email']is found
+21:02:57 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='password']
+21:02:57 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='password']is found
+21:02:57 INFO  manager.MyListener - Start searching element by locator -->By.cssSelector: .checkbox-container
+21:02:57 INFO  manager.MyListener - Element with locator -->By.cssSelector: .checkbox-containeris found
+21:02:57 INFO  manager.MyListener - Start searching element by locator -->By.cssSelector: button[type='submit']
+21:02:57 INFO  manager.MyListener - Element with locator -->By.cssSelector: button[type='submit']is found
+21:02:57 INFO  tests.TestBase - User: models.User@5241cf67 is provided
+21:02:57 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[text()=' Sign up ']
+21:02:57 INFO  manager.MyListener - Element with locator -->By.xpath: //a[text()=' Sign up ']is found
+21:02:58 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='name']
+21:02:58 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='name']is found
+21:02:59 INFO  manager.MyListener - Something went wrong
+21:02:59 INFO  manager.MyListener - element click intercepted: Element <input _ngcontent-mjj-c128="" autocomplete="name" formcontrolname="firstName" id="name" type="text" ng-reflect-name="firstName" ng-reflect-label="[object HTMLLabelElement]" class="ng-dirty ng-valid ng-touched"> is not clickable at point (1525, 293). Other element would receive the click: <div class="cdk-overlay-backdrop cdk-overlay-dark-backdrop cdk-overlay-backdrop-showing"></div>
+  (Session info: chrome=114.0.5735.199)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-674QB042', ip: '192.168.1.109', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_341'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.199, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\Kiril\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50254}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 08146a8e95169d1919182199353d2932
+21:02:59 INFO  manager.MyListener - element click intercepted: Element <input _ngcontent-mjj-c128="" autocomplete="name" formcontrolname="firstName" id="name" type="text" ng-reflect-name="firstName" ng-reflect-label="[object HTMLLabelElement]" class="ng-dirty ng-valid ng-touched"> is not clickable at point (1525, 293). Other element would receive the click: <div class="cdk-overlay-backdrop cdk-overlay-dark-backdrop cdk-overlay-backdrop-showing"></div>
+  (Session info: chrome=114.0.5735.199)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-674QB042', ip: '192.168.1.109', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_341'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.199, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\Kiril\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50254}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 08146a8e95169d1919182199353d2932
+21:02:59 INFO  manager.MyListener - This is a link to screenshot with error:src/test/screenshots/screenshot-179.png
+21:02:59 INFO  tests.TestBase - User: models.User@3a4e343 is provided
+21:02:59 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[text()=' Sign up ']
+21:03:02 INFO  manager.MyListener - Something went wrong
+21:03:02 INFO  manager.MyListener - no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()=' Sign up ']"}
+  (Session info: chrome=114.0.5735.199)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-674QB042', ip: '192.168.1.109', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_341'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.199, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\Kiril\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50254}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 08146a8e95169d1919182199353d2932
+*** Element info: {Using=xpath, value=//a[text()=' Sign up ']}
+21:03:02 INFO  manager.MyListener - no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()=' Sign up ']"}
+  (Session info: chrome=114.0.5735.199)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-674QB042', ip: '192.168.1.109', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_341'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.199, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\Kiril\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50254}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 08146a8e95169d1919182199353d2932
+*** Element info: {Using=xpath, value=//a[text()=' Sign up ']}
+21:03:03 INFO  manager.MyListener - This is a link to screenshot with error:src/test/screenshots/screenshot-182.png

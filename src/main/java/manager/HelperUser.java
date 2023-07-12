@@ -46,6 +46,7 @@ public class HelperUser extends HelperBase{
 
     }
     public void fillRegistrationForm(User user) {
+        //type(By.xpath("//input[@id='name']"), user.getName());
         type(By.xpath("//input[@id='name']"), user.getName());
         type(By.xpath("//input[@id='lastName']"), user.getLastName());
         type(By.xpath("//input[@id='email']"), user.getEmail());
@@ -59,6 +60,7 @@ public class HelperUser extends HelperBase{
     //method signature : type + name + parameters types
     public void confirmMessage(){
         click(By.xpath("//button[normalize-space()='Ok']"));
+        pause(2000);
     }
     public boolean isLogged() {
        // WebDriverWait wait = new WebDriverWait(wd,10);

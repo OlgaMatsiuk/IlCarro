@@ -1,0 +1,78 @@
+21:19:19 INFO  manager.ApplicationManager - Test start on Chrome
+21:19:20 INFO  tests.TestBase - User: models.User@5c3b6c6e is provided
+21:19:20 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[text()=' Sign up ']
+21:19:20 INFO  manager.MyListener - Element with locator -->By.xpath: //a[text()=' Sign up ']is found
+21:19:20 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='name']
+21:19:20 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='name']is found
+21:19:21 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='lastName']
+21:19:21 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='lastName']is found
+21:19:21 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='email']
+21:19:21 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='email']is found
+21:19:21 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='password']
+21:19:21 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='password']is found
+21:19:21 INFO  manager.MyListener - Start searching element by locator -->By.cssSelector: .checkbox-container
+21:19:21 INFO  manager.MyListener - Element with locator -->By.cssSelector: .checkbox-containeris found
+21:19:21 INFO  manager.MyListener - Start searching element by locator -->By.cssSelector: button[type='submit']
+21:19:21 INFO  manager.MyListener - Element with locator -->By.cssSelector: button[type='submit']is found
+21:19:21 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //button[normalize-space()='Ok']
+21:19:22 INFO  manager.MyListener - Element with locator -->By.xpath: //button[normalize-space()='Ok']is found
+21:19:24 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[normalize-space()='Logout']
+21:19:24 INFO  manager.MyListener - Element with locator -->By.xpath: //a[normalize-space()='Logout']is found
+21:19:24 INFO  tests.TestBase - User: models.User@1c98290c is provided
+21:19:24 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[text()=' Sign up ']
+21:19:25 INFO  manager.MyListener - Element with locator -->By.xpath: //a[text()=' Sign up ']is found
+21:19:25 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='name']
+21:19:25 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='name']is found
+21:19:25 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='lastName']
+21:19:25 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='lastName']is found
+21:19:25 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='email']
+21:19:25 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='email']is found
+21:19:25 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='password']
+21:19:25 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='password']is found
+21:19:25 INFO  manager.MyListener - Start searching element by locator -->By.cssSelector: .checkbox-container
+21:19:25 INFO  manager.MyListener - Element with locator -->By.cssSelector: .checkbox-containeris found
+21:19:25 INFO  manager.MyListener - Something went wrong
+21:19:25 INFO  manager.MyListener - move target out of bounds
+  (Session info: chrome=114.0.5735.199)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-674QB042', ip: '192.168.1.109', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_341'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.199, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\Kiril\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51984}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 28a29da0e26f5c3b1f056129d4dba407
+21:19:25 INFO  manager.MyListener - move target out of bounds
+  (Session info: chrome=114.0.5735.199)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-674QB042', ip: '192.168.1.109', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_341'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.199, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\Kiril\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51984}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 28a29da0e26f5c3b1f056129d4dba407
+21:19:26 INFO  manager.MyListener - This is a link to screenshot with error:src/test/screenshots/screenshot-1165.png
+21:19:26 INFO  tests.TestBase - User: models.User@1cf2fed4 is provided
+21:19:26 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[text()=' Sign up ']
+21:19:26 INFO  manager.MyListener - Element with locator -->By.xpath: //a[text()=' Sign up ']is found
+21:19:26 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='name']
+21:19:26 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='name']is found
+21:19:26 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='lastName']
+21:19:26 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='lastName']is found
+21:19:26 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='email']
+21:19:26 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='email']is found
+21:19:26 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='password']
+21:19:26 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='password']is found
+21:19:26 INFO  manager.MyListener - Start searching element by locator -->By.cssSelector: .checkbox-container
+21:19:26 INFO  manager.MyListener - Element with locator -->By.cssSelector: .checkbox-containeris found
+21:19:26 INFO  manager.MyListener - Something went wrong
+21:19:26 INFO  manager.MyListener - move target out of bounds
+  (Session info: chrome=114.0.5735.199)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-674QB042', ip: '192.168.1.109', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_341'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.199, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\Kiril\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51984}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 28a29da0e26f5c3b1f056129d4dba407
+21:19:26 INFO  manager.MyListener - move target out of bounds
+  (Session info: chrome=114.0.5735.199)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-674QB042', ip: '192.168.1.109', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_341'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.199, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\Kiril\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51984}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 28a29da0e26f5c3b1f056129d4dba407
+21:19:27 INFO  manager.MyListener - This is a link to screenshot with error:src/test/screenshots/screenshot-1166.png

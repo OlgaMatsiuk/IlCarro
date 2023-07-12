@@ -1,0 +1,34 @@
+14:22:05 INFO  manager.ApplicationManager - Test start on Chrome
+14:22:06 INFO  manager.MyListener - Start searching element by locator -->By.id: city
+14:22:07 INFO  manager.MyListener - Element with locator -->By.id: cityis found
+14:22:10 INFO  manager.MyListener - Start searching element by locator -->By.cssSelector: div.pac-item
+14:22:10 INFO  manager.MyListener - Element with locator -->By.cssSelector: div.pac-itemis found
+14:22:13 INFO  manager.MyListener - Start searching element by locator -->By.id: dates
+14:22:13 INFO  manager.MyListener - Element with locator -->By.id: datesis found
+14:22:13 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //div[.=' 15 ']
+14:22:13 INFO  manager.MyListener - Element with locator -->By.xpath: //div[.=' 15 ']is found
+14:22:15 INFO  manager.MyListener - Start searching element by locator -->By.cssSelector: button[aria-label='Choose month and year'] span[class='mat-button-wrapper']
+14:22:15 INFO  manager.MyListener - Element with locator -->By.cssSelector: button[aria-label='Choose month and year'] span[class='mat-button-wrapper']is found
+14:22:17 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //div[.=' 2023 ']
+14:22:17 INFO  manager.MyListener - Element with locator -->By.xpath: //div[.=' 2023 ']is found
+14:22:19 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //div[.=' 11 ']
+14:22:22 INFO  manager.MyListener - Something went wrong
+14:22:22 INFO  manager.MyListener - no such element: Unable to locate element: {"method":"xpath","selector":"//div[.=' 11 ']"}
+  (Session info: chrome=114.0.5735.199)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-674QB042', ip: '192.168.1.109', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_341'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.199, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\Kiril\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55161}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4b63caa6ffd13a0ef4d08b729e1b6914
+*** Element info: {Using=xpath, value=//div[.=' 11 ']}
+14:22:22 INFO  manager.MyListener - no such element: Unable to locate element: {"method":"xpath","selector":"//div[.=' 11 ']"}
+  (Session info: chrome=114.0.5735.199)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-674QB042', ip: '192.168.1.109', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_341'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.199, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\Kiril\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55161}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4b63caa6ffd13a0ef4d08b729e1b6914
+*** Element info: {Using=xpath, value=//div[.=' 11 ']}
+14:22:23 INFO  manager.MyListener - This is a link to screenshot with error:src/test/screenshots/screenshot-1342.png

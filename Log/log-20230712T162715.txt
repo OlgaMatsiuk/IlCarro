@@ -1,0 +1,27 @@
+16:27:18 INFO  manager.ApplicationManager - Test start on Chrome
+16:27:19 INFO  manager.MyListener - Start searching element by locator -->By.id: city
+16:27:19 INFO  manager.MyListener - Element with locator -->By.id: cityis found
+16:27:23 INFO  manager.MyListener - Start searching element by locator -->By.cssSelector: div.pac-item
+16:27:23 INFO  manager.MyListener - Element with locator -->By.cssSelector: div.pac-itemis found
+16:27:26 INFO  manager.MyListener - Start searching element by locator -->By.id: dates
+16:27:26 INFO  manager.MyListener - Element with locator -->By.id: datesis found
+16:27:26 INFO  manager.MyListener - Start searching element by locator -->By.cssSelector: button[aria-label='Next month']
+16:27:26 INFO  manager.MyListener - Element with locator -->By.cssSelector: button[aria-label='Next month']is found
+16:27:26 INFO  manager.MyListener - Start searching element by locator -->By.cssSelector: button[aria-label='Next month']
+16:27:26 INFO  manager.MyListener - Element with locator -->By.cssSelector: button[aria-label='Next month']is found
+16:27:26 INFO  manager.MyListener - Start searching element by locator -->By.cssSelector: button[aria-label='Next month']
+16:27:26 INFO  manager.MyListener - Element with locator -->By.cssSelector: button[aria-label='Next month']is found
+16:27:26 INFO  manager.MyListener - Start searching element by locator -->By.cssSelector: button[aria-label='Next month']
+16:27:26 INFO  manager.MyListener - Element with locator -->By.cssSelector: button[aria-label='Next month']is found
+16:27:26 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //div[.=' 15 ']
+16:27:26 INFO  manager.MyListener - Element with locator -->By.xpath: //div[.=' 15 ']is found
+16:27:28 INFO  manager.MyListener - Start searching element by locator -->By.cssSelector: button[aria-label='Next month']
+16:27:28 INFO  manager.MyListener - Element with locator -->By.cssSelector: button[aria-label='Next month']is found
+16:27:28 INFO  manager.MyListener - Start searching element by locator -->By.cssSelector: button[aria-label='Next month']
+16:27:28 INFO  manager.MyListener - Element with locator -->By.cssSelector: button[aria-label='Next month']is found
+16:27:28 INFO  manager.MyListener - Start searching element by locator -->By.cssSelector: button[aria-label='Next month']
+16:27:28 INFO  manager.MyListener - Element with locator -->By.cssSelector: button[aria-label='Next month']is found
+16:27:29 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //div[.=' 11 ']
+16:27:29 INFO  manager.MyListener - Element with locator -->By.xpath: //div[.=' 11 ']is found
+16:27:32 INFO  manager.MyListener - Start searching element by locator -->By.cssSelector: button[type='submit']
+16:27:32 INFO  manager.MyListener - Element with locator -->By.cssSelector: button[type='submit']is found

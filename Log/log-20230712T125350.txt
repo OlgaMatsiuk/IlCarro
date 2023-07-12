@@ -1,0 +1,25 @@
+12:53:54 INFO  manager.ApplicationManager - Test start on Chrome
+12:53:55 INFO  manager.MyListener - Start searching element by locator -->By.id: city
+12:53:55 INFO  manager.MyListener - Element with locator -->By.id: cityis found
+12:53:59 INFO  manager.MyListener - Start searching element by locator -->By.cssSelector: div.pac-item
+12:53:59 INFO  manager.MyListener - Element with locator -->By.cssSelector: div.pac-itemis found
+12:54:02 INFO  manager.MyListener - Start searching element by locator -->By.id: dates
+12:54:02 INFO  manager.MyListener - Element with locator -->By.id: datesis found
+12:54:03 INFO  manager.MyListener - Start searching element by locator -->By.id: dates
+12:54:03 INFO  manager.MyListener - Element with locator -->By.id: datesis found
+12:54:04 INFO  manager.MyListener - Something went wrong
+12:54:04 INFO  manager.MyListener - element click intercepted: Element <input _ngcontent-vxo-c106="" formcontrolname="dates" id="dates" ng-reflect-name="dates" ng-reflect-label="[object HTMLLabelElement]" ng-reflect-max="Thu Jul 11 2024 12:53:55 GMT+0" ng-reflect-min="Wed Jul 12 2023 12:53:55 GMT+0" ng-reflect-sat-datepicker="[object Object]" class="ng-pristine ng-invalid ng-touched" aria-haspopup="dialog" min="2023-07-12" max="2024-07-11" aria-owns="sat-datepicker-0"> is not clickable at point (377, 355). Other element would receive the click: <div class="cdk-overlay-backdrop mat-overlay-transparent-backdrop cdk-overlay-backdrop-showing"></div>
+  (Session info: chrome=114.0.5735.199)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-674QB042', ip: '192.168.1.109', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_341'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.199, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\Kiril\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62262}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e1ef1fe37a8fb98aeb1723b658f9f99a
+12:54:04 INFO  manager.MyListener - element click intercepted: Element <input _ngcontent-vxo-c106="" formcontrolname="dates" id="dates" ng-reflect-name="dates" ng-reflect-label="[object HTMLLabelElement]" ng-reflect-max="Thu Jul 11 2024 12:53:55 GMT+0" ng-reflect-min="Wed Jul 12 2023 12:53:55 GMT+0" ng-reflect-sat-datepicker="[object Object]" class="ng-pristine ng-invalid ng-touched" aria-haspopup="dialog" min="2023-07-12" max="2024-07-11" aria-owns="sat-datepicker-0"> is not clickable at point (377, 355). Other element would receive the click: <div class="cdk-overlay-backdrop mat-overlay-transparent-backdrop cdk-overlay-backdrop-showing"></div>
+  (Session info: chrome=114.0.5735.199)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-674QB042', ip: '192.168.1.109', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_341'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.199, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\Kiril\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62262}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e1ef1fe37a8fb98aeb1723b658f9f99a
+12:54:05 INFO  manager.MyListener - This is a link to screenshot with error:src/test/screenshots/screenshot-3244.png

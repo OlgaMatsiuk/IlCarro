@@ -1,0 +1,73 @@
+21:17:20 INFO  manager.ApplicationManager - Test start on Chrome
+21:17:21 INFO  tests.TestBase - User: models.User@5c3b6c6e is provided
+21:17:21 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[text()=' Sign up ']
+21:17:21 INFO  manager.MyListener - Element with locator -->By.xpath: //a[text()=' Sign up ']is found
+21:17:21 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='name']
+21:17:21 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='name']is found
+21:17:22 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='lastName']
+21:17:22 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='lastName']is found
+21:17:22 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='email']
+21:17:22 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='email']is found
+21:17:22 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='password']
+21:17:22 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='password']is found
+21:17:22 INFO  manager.MyListener - Start searching element by locator -->By.cssSelector: .checkbox-container
+21:17:22 INFO  manager.MyListener - Element with locator -->By.cssSelector: .checkbox-containeris found
+21:17:22 INFO  manager.MyListener - Start searching element by locator -->By.cssSelector: button[type='submit']
+21:17:22 INFO  manager.MyListener - Element with locator -->By.cssSelector: button[type='submit']is found
+21:17:22 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //button[normalize-space()='Ok']
+21:17:23 INFO  manager.MyListener - Element with locator -->By.xpath: //button[normalize-space()='Ok']is found
+21:17:23 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[normalize-space()='Logout']
+21:17:23 INFO  manager.MyListener - Element with locator -->By.xpath: //a[normalize-space()='Logout']is found
+21:17:24 INFO  tests.TestBase - User: models.User@1c98290c is provided
+21:17:24 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[text()=' Sign up ']
+21:17:24 INFO  manager.MyListener - Element with locator -->By.xpath: //a[text()=' Sign up ']is found
+21:17:24 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='name']
+21:17:27 INFO  manager.MyListener - Something went wrong
+21:17:27 INFO  manager.MyListener - no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='name']"}
+  (Session info: chrome=114.0.5735.199)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-674QB042', ip: '192.168.1.109', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_341'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.199, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\Kiril\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51765}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5e421c6a9b1c594ea874956490eee553
+*** Element info: {Using=xpath, value=//input[@id='name']}
+21:17:27 INFO  manager.MyListener - no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='name']"}
+  (Session info: chrome=114.0.5735.199)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-674QB042', ip: '192.168.1.109', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_341'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.199, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\Kiril\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51765}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5e421c6a9b1c594ea874956490eee553
+*** Element info: {Using=xpath, value=//input[@id='name']}
+21:17:27 INFO  manager.MyListener - This is a link to screenshot with error:src/test/screenshots/screenshot-1047.png
+21:17:27 INFO  tests.TestBase - User: models.User@37ebc9d8 is provided
+21:17:27 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[text()=' Sign up ']
+21:17:27 INFO  manager.MyListener - Element with locator -->By.xpath: //a[text()=' Sign up ']is found
+21:17:27 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='name']
+21:17:27 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='name']is found
+21:17:27 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='lastName']
+21:17:27 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='lastName']is found
+21:17:27 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='email']
+21:17:28 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='email']is found
+21:17:28 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='password']
+21:17:28 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='password']is found
+21:17:28 INFO  manager.MyListener - Start searching element by locator -->By.cssSelector: .checkbox-container
+21:17:28 INFO  manager.MyListener - Element with locator -->By.cssSelector: .checkbox-containeris found
+21:17:28 INFO  manager.MyListener - Something went wrong
+21:17:28 INFO  manager.MyListener - move target out of bounds
+  (Session info: chrome=114.0.5735.199)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-674QB042', ip: '192.168.1.109', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_341'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.199, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\Kiril\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51765}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5e421c6a9b1c594ea874956490eee553
+21:17:28 INFO  manager.MyListener - move target out of bounds
+  (Session info: chrome=114.0.5735.199)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-674QB042', ip: '192.168.1.109', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_341'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.199, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\Kiril\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51765}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5e421c6a9b1c594ea874956490eee553
+21:17:28 INFO  manager.MyListener - This is a link to screenshot with error:src/test/screenshots/screenshot-1048.png
