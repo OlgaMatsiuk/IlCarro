@@ -3,6 +3,9 @@ package manager;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
+import java.time.LocalDate;
+import java.time.format.DateTimeFormatter;
+
 public class HelperSearch extends HelperBase{
     public HelperSearch(WebDriver wd) {
         super(wd);
@@ -96,9 +99,33 @@ public class HelperSearch extends HelperBase{
         String locatorStartDate = String.format("//div[.=' %s ']", startDate[1]);
         String locatorEndDate = String.format("//div[.=' %s ']", endDate[1]);
         String locatorYear = String.format("//div[.=' %s ']",endDate[2]);
+//================================================================
+//        LocalDate startDate2= LocalDate.parse(dataFrom, DateTimeFormatter.ofPattern("MM/dd/yyyy"));
+//        LocalDate endDate2= LocalDate.parse(dataTo, DateTimeFormatter.ofPattern("MM/dd/yyyy"));
+//        LocalDate nowDate2= LocalDate.now();
+//        String locatorStartDate2 = String.format("//div[.=' %s ']",startDate2.getDayOfMonth());
+//        String locatorEndDate2 = String.format("//div[.=' %s ']",endDate2.getDayOfMonth());
+//        int startToEndMonth = startDate2.getYear()-nowDate2.getYear()==0
+//                 ? startDate2.getMonthValue()-nowDate2.getMonthValue()
+//                : 12-nowDate2.getMonthValue()+ startDate2.getMonthValue();
+//        for (int i = 0; i < startToEndMonth; i++) {
+//            click(By.xpath(locatorStartDate2));
+//            pause(1000);
+//        }
+//        click(By.xpath(locatorStartDate2));
+//        startToEndMonth = endDate2.getYear() - startDate2.getYear()==0 ?
+//                endDate2.getMonthValue() - startDate2.getMonthValue() :
+//                12-startDate2.getMonthValue() + endDate2.getMonthValue();
+//        for (int i = 0; i < startToEndMonth; i++) {
+//            click((By.cssSelector("button[aria-label='Next month']")));
+//            pause(1000);
+//        }
+        //click((By.xpath(locatorEndDate2));
+        pause(3000);
+     // =================================================================
 
         click(By.id("dates"));
-        int numberOfClickStart = Integer.parseInt(startDate[0])-7; // 7- July-current month
+        int numberOfClickStart = Integer.parseInt(startDate[0])- LocalDate.now().getMonthValue(); // 7- July-current month
         while (numberOfClickStart > 0){
             click(By.cssSelector("button[aria-label='Next month']"));
             numberOfClickStart = numberOfClickStart-1;
