@@ -1,0 +1,54 @@
+21:07:14 INFO  manager.ApplicationManager - Test start on Chrome
+21:07:16 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[.=' Logout ']
+21:07:19 INFO  manager.MyListener - Element with locator -->By.xpath: //a[.=' Logout ']is found
+21:07:19 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[text()=' Log in ']
+21:07:19 INFO  manager.MyListener - Element with locator -->By.xpath: //a[text()=' Log in ']is found
+21:07:19 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='email']
+21:07:19 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='email']is found
+21:07:19 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='password']
+21:07:19 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='password']is found
+21:07:19 INFO  manager.MyListener - Start searching element by locator -->By.cssSelector: button[type='submit']
+21:07:19 INFO  manager.MyListener - Element with locator -->By.cssSelector: button[type='submit']is found
+21:07:19 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //button[normalize-space()='Ok']
+21:07:20 INFO  manager.MyListener - Element with locator -->By.xpath: //button[normalize-space()='Ok']is found
+21:07:22 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[.=' Logout ']
+21:07:22 INFO  manager.MyListener - Element with locator -->By.xpath: //a[.=' Logout ']is found
+21:07:22 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[normalize-space()='Logout']
+21:07:23 INFO  manager.MyListener - Element with locator -->By.xpath: //a[normalize-space()='Logout']is found
+21:07:23 INFO  tests.TestBase - User: models.User@186978a6 is provided
+21:07:23 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[text()=' Log in ']
+21:07:23 INFO  manager.MyListener - Element with locator -->By.xpath: //a[text()=' Log in ']is found
+21:07:23 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='email']
+21:07:23 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='email']is found
+21:07:23 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='password']
+21:07:23 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='password']is found
+21:07:23 INFO  manager.MyListener - Start searching element by locator -->By.cssSelector: button[type='submit']
+21:07:23 INFO  manager.MyListener - Element with locator -->By.cssSelector: button[type='submit']is found
+21:07:23 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //button[normalize-space()='Ok']
+21:07:23 INFO  manager.MyListener - Element with locator -->By.xpath: //button[normalize-space()='Ok']is found
+21:07:25 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[.=' Logout ']
+21:07:28 INFO  manager.MyListener - Element with locator -->By.xpath: //a[.=' Logout ']is found
+21:07:28 INFO  tests.TestBase - User: models.User@ce5a68e is provided
+21:07:28 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[text()=' Log in ']
+21:07:29 INFO  manager.MyListener - Element with locator -->By.xpath: //a[text()=' Log in ']is found
+21:07:29 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='email']
+21:07:29 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='email']is found
+21:07:29 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='password']
+21:07:29 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='password']is found
+21:07:29 INFO  manager.MyListener - Start searching element by locator -->By.cssSelector: button[type='submit']
+21:07:29 INFO  manager.MyListener - Element with locator -->By.cssSelector: button[type='submit']is found
+21:07:29 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //button[normalize-space()='Ok']
+21:07:30 INFO  manager.MyListener - Element with locator -->By.xpath: //button[normalize-space()='Ok']is found
+21:07:32 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[.=' Logout ']
+21:07:35 INFO  manager.MyListener - Element with locator -->By.xpath: //a[.=' Logout ']is found
+21:07:35 INFO  tests.TestBase - User: models.User@3591009c is provided
+21:07:35 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[text()=' Log in ']
+21:07:35 INFO  manager.MyListener - Element with locator -->By.xpath: //a[text()=' Log in ']is found
+21:07:35 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='email']
+21:07:35 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='email']is found
+21:07:35 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='password']
+21:07:35 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='password']is found
+21:07:35 INFO  manager.MyListener - Start searching element by locator -->By.cssSelector: button[type='submit']
+21:07:35 INFO  manager.MyListener - Element with locator -->By.cssSelector: button[type='submit']is found
+21:07:35 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //button[normalize-space()='Ok']
+21:07:36 INFO  manager.MyListener - Element with locator -->By.xpath: //button[normalize-space()='Ok']is found

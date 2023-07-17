@@ -45,8 +45,11 @@ public class ApplicationManager {
     }
 
     public void init() throws IOException {
-        properties.load(new FileReader(new File("src/test/resources/pre_prod_config.properties")));
-       // wd = new EventFiringWebDriver(new ChromeDriver());
+        String target = System.getProperty("target", "pre_prod_config");
+        //properties.load(new FileReader(new File("src/test/resources/pre_prod_config.properties")));
+        properties.load(new FileReader(new File(String.format("src/test/resources/%s.properties", target))));
+
+        // wd = new EventFiringWebDriver(new ChromeDriver());
         if(browser.equals(BrowserType.CHROME)){
             wd = new EventFiringWebDriver(new ChromeDriver());
             logger.info("Test start on Chrome");

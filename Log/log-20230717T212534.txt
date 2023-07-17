@@ -1,0 +1,327 @@
+21:25:37 INFO  manager.ApplicationManager - Test start on Chrome
+21:25:38 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[.=' Logout ']
+21:25:41 INFO  manager.MyListener - Element with locator -->By.xpath: //a[.=' Logout ']is found
+21:25:41 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[text()=' Log in ']
+21:25:41 INFO  manager.MyListener - Element with locator -->By.xpath: //a[text()=' Log in ']is found
+21:25:41 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='email']
+21:25:41 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='email']is found
+21:25:41 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='password']
+21:25:41 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='password']is found
+21:25:41 INFO  manager.MyListener - Start searching element by locator -->By.cssSelector: button[type='submit']
+21:25:41 INFO  manager.MyListener - Element with locator -->By.cssSelector: button[type='submit']is found
+21:25:42 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //button[@disabled]
+21:25:42 INFO  manager.MyListener - Element with locator -->By.xpath: //button[@disabled]is found
+21:25:42 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[.=' Logout ']
+21:25:45 INFO  manager.MyListener - Element with locator -->By.xpath: //a[.=' Logout ']is found
+21:25:45 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[text()=' Log in ']
+21:25:45 INFO  manager.MyListener - Element with locator -->By.xpath: //a[text()=' Log in ']is found
+21:25:45 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='email']
+21:25:45 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='email']is found
+21:25:45 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='password']
+21:25:45 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='password']is found
+21:25:45 INFO  manager.MyListener - Start searching element by locator -->By.cssSelector: button[type='submit']
+21:25:45 INFO  manager.MyListener - Element with locator -->By.cssSelector: button[type='submit']is found
+21:25:45 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //h1[normalize-space()='Logged in']
+21:25:46 INFO  manager.MyListener - Element with locator -->By.xpath: //h1[normalize-space()='Logged in']is found
+21:25:46 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //button[normalize-space()='Ok']
+21:25:46 INFO  manager.MyListener - Element with locator -->By.xpath: //button[normalize-space()='Ok']is found
+21:25:48 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[.=' Logout ']
+21:25:48 INFO  manager.MyListener - Element with locator -->By.xpath: //a[.=' Logout ']is found
+21:25:48 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[normalize-space()='Logout']
+21:25:48 INFO  manager.MyListener - Element with locator -->By.xpath: //a[normalize-space()='Logout']is found
+21:25:48 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[text()=' Log in ']
+21:25:48 INFO  manager.MyListener - Element with locator -->By.xpath: //a[text()=' Log in ']is found
+21:25:48 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='email']
+21:25:48 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='email']is found
+21:25:49 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='password']
+21:25:49 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='password']is found
+21:25:49 INFO  manager.MyListener - Start searching element by locator -->By.cssSelector: button[type='submit']
+21:25:49 INFO  manager.MyListener - Element with locator -->By.cssSelector: button[type='submit']is found
+21:25:49 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //button[normalize-space()='Ok']
+21:25:49 INFO  manager.MyListener - Element with locator -->By.xpath: //button[normalize-space()='Ok']is found
+21:25:51 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[.=' Logout ']
+21:25:51 INFO  manager.MyListener - Element with locator -->By.xpath: //a[.=' Logout ']is found
+21:25:51 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[normalize-space()='Logout']
+21:25:51 INFO  manager.MyListener - Element with locator -->By.xpath: //a[normalize-space()='Logout']is found
+21:25:51 INFO  tests.TestBase - User: models.User@544630b7 is provided
+21:25:51 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[text()=' Log in ']
+21:25:51 INFO  manager.MyListener - Element with locator -->By.xpath: //a[text()=' Log in ']is found
+21:25:51 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='email']
+21:25:51 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='email']is found
+21:25:51 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='password']
+21:25:51 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='password']is found
+21:25:52 INFO  manager.MyListener - Start searching element by locator -->By.cssSelector: button[type='submit']
+21:25:52 INFO  manager.MyListener - Element with locator -->By.cssSelector: button[type='submit']is found
+21:25:52 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //button[normalize-space()='Ok']
+21:25:52 INFO  manager.MyListener - Element with locator -->By.xpath: //button[normalize-space()='Ok']is found
+21:25:54 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[.=' Logout ']
+21:25:54 INFO  manager.MyListener - Element with locator -->By.xpath: //a[.=' Logout ']is found
+21:25:54 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[normalize-space()='Logout']
+21:25:54 INFO  manager.MyListener - Element with locator -->By.xpath: //a[normalize-space()='Logout']is found
+21:25:54 INFO  tests.TestBase - User: models.User@6c451c9c is provided
+21:25:54 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[text()=' Log in ']
+21:25:54 INFO  manager.MyListener - Element with locator -->By.xpath: //a[text()=' Log in ']is found
+21:25:54 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='email']
+21:25:54 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='email']is found
+21:25:54 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='password']
+21:25:54 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='password']is found
+21:25:54 INFO  manager.MyListener - Start searching element by locator -->By.cssSelector: button[type='submit']
+21:25:54 INFO  manager.MyListener - Element with locator -->By.cssSelector: button[type='submit']is found
+21:25:54 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //button[normalize-space()='Ok']
+21:25:55 INFO  manager.MyListener - Element with locator -->By.xpath: //button[normalize-space()='Ok']is found
+21:25:57 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[.=' Logout ']
+21:26:00 INFO  manager.MyListener - Element with locator -->By.xpath: //a[.=' Logout ']is found
+21:26:00 INFO  tests.TestBase - User: models.User@3fc08eec is provided
+21:26:00 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[text()=' Log in ']
+21:26:00 INFO  manager.MyListener - Element with locator -->By.xpath: //a[text()=' Log in ']is found
+21:26:00 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='email']
+21:26:00 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='email']is found
+21:26:00 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='password']
+21:26:00 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='password']is found
+21:26:00 INFO  manager.MyListener - Start searching element by locator -->By.cssSelector: button[type='submit']
+21:26:00 INFO  manager.MyListener - Element with locator -->By.cssSelector: button[type='submit']is found
+21:26:00 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //button[normalize-space()='Ok']
+21:26:01 INFO  manager.MyListener - Element with locator -->By.xpath: //button[normalize-space()='Ok']is found
+21:26:03 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[.=' Logout ']
+21:26:06 INFO  manager.MyListener - Element with locator -->By.xpath: //a[.=' Logout ']is found
+21:26:06 INFO  tests.TestBase - User: models.User@a68df9 is provided
+21:26:06 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[text()=' Log in ']
+21:26:06 INFO  manager.MyListener - Element with locator -->By.xpath: //a[text()=' Log in ']is found
+21:26:06 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='email']
+21:26:06 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='email']is found
+21:26:06 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='password']
+21:26:06 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='password']is found
+21:26:06 INFO  manager.MyListener - Start searching element by locator -->By.cssSelector: button[type='submit']
+21:26:06 INFO  manager.MyListener - Element with locator -->By.cssSelector: button[type='submit']is found
+21:26:06 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //button[normalize-space()='Ok']
+21:26:07 INFO  manager.MyListener - Element with locator -->By.xpath: //button[normalize-space()='Ok']is found
+21:26:09 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[.=' Logout ']
+21:26:12 INFO  manager.MyListener - Element with locator -->By.xpath: //a[.=' Logout ']is found
+21:26:12 INFO  tests.TestBase - User: models.User@b0964b2 is provided
+21:26:12 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[text()=' Log in ']
+21:26:12 INFO  manager.MyListener - Element with locator -->By.xpath: //a[text()=' Log in ']is found
+21:26:12 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='email']
+21:26:12 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='email']is found
+21:26:12 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='password']
+21:26:12 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='password']is found
+21:26:12 INFO  manager.MyListener - Start searching element by locator -->By.cssSelector: button[type='submit']
+21:26:12 INFO  manager.MyListener - Element with locator -->By.cssSelector: button[type='submit']is found
+21:26:12 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //button[normalize-space()='Ok']
+21:26:13 INFO  manager.MyListener - Element with locator -->By.xpath: //button[normalize-space()='Ok']is found
+21:26:15 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[.=' Logout ']
+21:26:18 INFO  manager.MyListener - Element with locator -->By.xpath: //a[.=' Logout ']is found
+21:26:18 INFO  tests.TestBase - User: models.User@6d6cb754 is provided
+21:26:18 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[text()=' Log in ']
+21:26:18 INFO  manager.MyListener - Element with locator -->By.xpath: //a[text()=' Log in ']is found
+21:26:18 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='email']
+21:26:18 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='email']is found
+21:26:18 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='password']
+21:26:18 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='password']is found
+21:26:18 INFO  manager.MyListener - Start searching element by locator -->By.cssSelector: button[type='submit']
+21:26:18 INFO  manager.MyListener - Element with locator -->By.cssSelector: button[type='submit']is found
+21:26:18 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //button[normalize-space()='Ok']
+21:26:19 INFO  manager.MyListener - Element with locator -->By.xpath: //button[normalize-space()='Ok']is found
+21:26:21 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[.=' Logout ']
+21:26:24 INFO  manager.MyListener - Element with locator -->By.xpath: //a[.=' Logout ']is found
+21:26:24 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[text()=' Sign up ']
+21:26:24 INFO  manager.MyListener - Element with locator -->By.xpath: //a[text()=' Sign up ']is found
+21:26:24 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='name']
+21:26:24 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='name']is found
+21:26:24 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='lastName']
+21:26:24 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='lastName']is found
+21:26:24 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='email']
+21:26:24 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='email']is found
+21:26:24 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='password']
+21:26:24 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='password']is found
+21:26:24 INFO  manager.MyListener - Start searching element by locator -->By.cssSelector: button[type='submit']
+21:26:24 INFO  manager.MyListener - Element with locator -->By.cssSelector: button[type='submit']is found
+21:26:24 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[.=' Logout ']
+21:26:27 INFO  manager.MyListener - Element with locator -->By.xpath: //a[.=' Logout ']is found
+21:26:27 INFO  tests.TestBase - User: models.User@67dba613 is provided
+21:26:27 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[text()=' Sign up ']
+21:26:27 INFO  manager.MyListener - Element with locator -->By.xpath: //a[text()=' Sign up ']is found
+21:26:27 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='name']
+21:26:27 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='name']is found
+21:26:27 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='lastName']
+21:26:28 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='lastName']is found
+21:26:28 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='email']
+21:26:28 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='email']is found
+21:26:28 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='password']
+21:26:28 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='password']is found
+21:26:28 INFO  manager.MyListener - Start searching element by locator -->By.cssSelector: button[type='submit']
+21:26:28 INFO  manager.MyListener - Element with locator -->By.cssSelector: button[type='submit']is found
+21:26:30 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[.=' Logout ']
+21:26:33 INFO  manager.MyListener - Element with locator -->By.xpath: //a[.=' Logout ']is found
+21:26:33 INFO  tests.TestBase - User: models.User@6e91893 is provided
+21:26:33 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[text()=' Sign up ']
+21:26:33 INFO  manager.MyListener - Element with locator -->By.xpath: //a[text()=' Sign up ']is found
+21:26:33 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='name']
+21:26:33 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='name']is found
+21:26:33 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='lastName']
+21:26:33 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='lastName']is found
+21:26:33 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='email']
+21:26:33 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='email']is found
+21:26:33 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //input[@id='password']
+21:26:33 INFO  manager.MyListener - Element with locator -->By.xpath: //input[@id='password']is found
+21:26:34 INFO  manager.MyListener - Start searching element by locator -->By.cssSelector: button[type='submit']
+21:26:34 INFO  manager.MyListener - Element with locator -->By.cssSelector: button[type='submit']is found
+21:26:36 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[.=' Logout ']
+21:26:36 INFO  manager.MyListener - Element with locator -->By.xpath: //a[.=' Logout ']is found
+21:26:36 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[normalize-space()='Logout']
+21:26:36 INFO  manager.MyListener - Element with locator -->By.xpath: //a[normalize-space()='Logout']is found
+21:26:37 INFO  manager.MyListener - Something went wrong
+21:26:37 INFO  manager.MyListener - element click intercepted: Element <a _ngcontent-iey-c44="" class="navigation-link ng-star-inserted" ng-reflect-query-params="[object Object]" ng-reflect-router-link="logout" href="/logout?url=%2Fsearch">...</a> is not clickable at point (1472, 34). Other element would receive the click: <div class="cdk-overlay-backdrop cdk-overlay-dark-backdrop cdk-overlay-backdrop-showing"></div>
+  (Session info: chrome=114.0.5735.199)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-674QB042', ip: '192.168.1.109', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.199, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\Kiril\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58236}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 920a966e91a8d0b0a785221e5b950128
+21:26:37 INFO  manager.MyListener - element click intercepted: Element <a _ngcontent-iey-c44="" class="navigation-link ng-star-inserted" ng-reflect-query-params="[object Object]" ng-reflect-router-link="logout" href="/logout?url=%2Fsearch">...</a> is not clickable at point (1472, 34). Other element would receive the click: <div class="cdk-overlay-backdrop cdk-overlay-dark-backdrop cdk-overlay-backdrop-showing"></div>
+  (Session info: chrome=114.0.5735.199)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-674QB042', ip: '192.168.1.109', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.199, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\Kiril\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58236}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 920a966e91a8d0b0a785221e5b950128
+21:26:37 INFO  manager.MyListener - This is a link to screenshot with error:src/test/screenshots/screenshot-1597.png
+21:26:37 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[.=' Logout ']
+21:26:37 INFO  manager.MyListener - Element with locator -->By.xpath: //a[.=' Logout ']is found
+21:26:37 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[normalize-space()='Logout']
+21:26:37 INFO  manager.MyListener - Element with locator -->By.xpath: //a[normalize-space()='Logout']is found
+21:26:38 INFO  manager.MyListener - Something went wrong
+21:26:38 INFO  manager.MyListener - element click intercepted: Element <a _ngcontent-iey-c44="" class="navigation-link ng-star-inserted" ng-reflect-query-params="[object Object]" ng-reflect-router-link="logout" href="/logout?url=%2Fsearch">...</a> is not clickable at point (1472, 34). Other element would receive the click: <div class="cdk-overlay-backdrop cdk-overlay-dark-backdrop cdk-overlay-backdrop-showing"></div>
+  (Session info: chrome=114.0.5735.199)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-674QB042', ip: '192.168.1.109', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.199, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\Kiril\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58236}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 920a966e91a8d0b0a785221e5b950128
+21:26:38 INFO  manager.MyListener - element click intercepted: Element <a _ngcontent-iey-c44="" class="navigation-link ng-star-inserted" ng-reflect-query-params="[object Object]" ng-reflect-router-link="logout" href="/logout?url=%2Fsearch">...</a> is not clickable at point (1472, 34). Other element would receive the click: <div class="cdk-overlay-backdrop cdk-overlay-dark-backdrop cdk-overlay-backdrop-showing"></div>
+  (Session info: chrome=114.0.5735.199)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-674QB042', ip: '192.168.1.109', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.199, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\Kiril\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58236}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 920a966e91a8d0b0a785221e5b950128
+21:26:39 INFO  manager.MyListener - This is a link to screenshot with error:src/test/screenshots/screenshot-1598.png
+21:26:39 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[.=' Logout ']
+21:26:39 INFO  manager.MyListener - Element with locator -->By.xpath: //a[.=' Logout ']is found
+21:26:39 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[normalize-space()='Logout']
+21:26:39 INFO  manager.MyListener - Element with locator -->By.xpath: //a[normalize-space()='Logout']is found
+21:26:40 INFO  manager.MyListener - Something went wrong
+21:26:40 INFO  manager.MyListener - element click intercepted: Element <a _ngcontent-iey-c44="" class="navigation-link ng-star-inserted" ng-reflect-query-params="[object Object]" ng-reflect-router-link="logout" href="/logout?url=%2Fsearch">...</a> is not clickable at point (1472, 34). Other element would receive the click: <div class="cdk-overlay-backdrop cdk-overlay-dark-backdrop cdk-overlay-backdrop-showing"></div>
+  (Session info: chrome=114.0.5735.199)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-674QB042', ip: '192.168.1.109', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.199, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\Kiril\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58236}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 920a966e91a8d0b0a785221e5b950128
+21:26:40 INFO  manager.MyListener - element click intercepted: Element <a _ngcontent-iey-c44="" class="navigation-link ng-star-inserted" ng-reflect-query-params="[object Object]" ng-reflect-router-link="logout" href="/logout?url=%2Fsearch">...</a> is not clickable at point (1472, 34). Other element would receive the click: <div class="cdk-overlay-backdrop cdk-overlay-dark-backdrop cdk-overlay-backdrop-showing"></div>
+  (Session info: chrome=114.0.5735.199)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-674QB042', ip: '192.168.1.109', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.199, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\Kiril\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58236}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 920a966e91a8d0b0a785221e5b950128
+21:26:40 INFO  manager.MyListener - This is a link to screenshot with error:src/test/screenshots/screenshot-1600.png
+21:26:40 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[.=' Logout ']
+21:26:40 INFO  manager.MyListener - Element with locator -->By.xpath: //a[.=' Logout ']is found
+21:26:40 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[normalize-space()='Logout']
+21:26:40 INFO  manager.MyListener - Element with locator -->By.xpath: //a[normalize-space()='Logout']is found
+21:26:41 INFO  manager.MyListener - Something went wrong
+21:26:41 INFO  manager.MyListener - element click intercepted: Element <a _ngcontent-iey-c44="" class="navigation-link ng-star-inserted" ng-reflect-query-params="[object Object]" ng-reflect-router-link="logout" href="/logout?url=%2Fsearch">...</a> is not clickable at point (1472, 34). Other element would receive the click: <div class="cdk-overlay-backdrop cdk-overlay-dark-backdrop cdk-overlay-backdrop-showing"></div>
+  (Session info: chrome=114.0.5735.199)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-674QB042', ip: '192.168.1.109', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.199, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\Kiril\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58236}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 920a966e91a8d0b0a785221e5b950128
+21:26:41 INFO  manager.MyListener - element click intercepted: Element <a _ngcontent-iey-c44="" class="navigation-link ng-star-inserted" ng-reflect-query-params="[object Object]" ng-reflect-router-link="logout" href="/logout?url=%2Fsearch">...</a> is not clickable at point (1472, 34). Other element would receive the click: <div class="cdk-overlay-backdrop cdk-overlay-dark-backdrop cdk-overlay-backdrop-showing"></div>
+  (Session info: chrome=114.0.5735.199)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-674QB042', ip: '192.168.1.109', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.199, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\Kiril\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58236}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 920a966e91a8d0b0a785221e5b950128
+21:26:42 INFO  manager.MyListener - This is a link to screenshot with error:src/test/screenshots/screenshot-1601.png
+21:26:42 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[.=' Logout ']
+21:26:42 INFO  manager.MyListener - Element with locator -->By.xpath: //a[.=' Logout ']is found
+21:26:42 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[normalize-space()='Logout']
+21:26:42 INFO  manager.MyListener - Element with locator -->By.xpath: //a[normalize-space()='Logout']is found
+21:26:43 INFO  manager.MyListener - Something went wrong
+21:26:43 INFO  manager.MyListener - element click intercepted: Element <a _ngcontent-iey-c44="" class="navigation-link ng-star-inserted" ng-reflect-query-params="[object Object]" ng-reflect-router-link="logout" href="/logout?url=%2Fsearch">...</a> is not clickable at point (1472, 34). Other element would receive the click: <div class="cdk-overlay-backdrop cdk-overlay-dark-backdrop cdk-overlay-backdrop-showing"></div>
+  (Session info: chrome=114.0.5735.199)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-674QB042', ip: '192.168.1.109', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.199, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\Kiril\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58236}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 920a966e91a8d0b0a785221e5b950128
+21:26:43 INFO  manager.MyListener - element click intercepted: Element <a _ngcontent-iey-c44="" class="navigation-link ng-star-inserted" ng-reflect-query-params="[object Object]" ng-reflect-router-link="logout" href="/logout?url=%2Fsearch">...</a> is not clickable at point (1472, 34). Other element would receive the click: <div class="cdk-overlay-backdrop cdk-overlay-dark-backdrop cdk-overlay-backdrop-showing"></div>
+  (Session info: chrome=114.0.5735.199)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-674QB042', ip: '192.168.1.109', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.199, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\Kiril\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58236}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 920a966e91a8d0b0a785221e5b950128
+21:26:43 INFO  manager.MyListener - This is a link to screenshot with error:src/test/screenshots/screenshot-1603.png
+21:26:43 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[.=' Logout ']
+21:26:43 INFO  manager.MyListener - Element with locator -->By.xpath: //a[.=' Logout ']is found
+21:26:43 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[normalize-space()='Logout']
+21:26:43 INFO  manager.MyListener - Element with locator -->By.xpath: //a[normalize-space()='Logout']is found
+21:26:44 INFO  manager.MyListener - Something went wrong
+21:26:44 INFO  manager.MyListener - element click intercepted: Element <a _ngcontent-iey-c44="" class="navigation-link ng-star-inserted" ng-reflect-query-params="[object Object]" ng-reflect-router-link="logout" href="/logout?url=%2Fsearch">...</a> is not clickable at point (1472, 34). Other element would receive the click: <div class="cdk-overlay-backdrop cdk-overlay-dark-backdrop cdk-overlay-backdrop-showing"></div>
+  (Session info: chrome=114.0.5735.199)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-674QB042', ip: '192.168.1.109', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.199, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\Kiril\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58236}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 920a966e91a8d0b0a785221e5b950128
+21:26:44 INFO  manager.MyListener - element click intercepted: Element <a _ngcontent-iey-c44="" class="navigation-link ng-star-inserted" ng-reflect-query-params="[object Object]" ng-reflect-router-link="logout" href="/logout?url=%2Fsearch">...</a> is not clickable at point (1472, 34). Other element would receive the click: <div class="cdk-overlay-backdrop cdk-overlay-dark-backdrop cdk-overlay-backdrop-showing"></div>
+  (Session info: chrome=114.0.5735.199)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-674QB042', ip: '192.168.1.109', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.199, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\Kiril\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58236}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 920a966e91a8d0b0a785221e5b950128
+21:26:45 INFO  manager.MyListener - This is a link to screenshot with error:src/test/screenshots/screenshot-1604.png
+21:26:45 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[.=' Logout ']
+21:26:45 INFO  manager.MyListener - Element with locator -->By.xpath: //a[.=' Logout ']is found
+21:26:45 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[normalize-space()='Logout']
+21:26:45 INFO  manager.MyListener - Element with locator -->By.xpath: //a[normalize-space()='Logout']is found
+21:26:46 INFO  manager.MyListener - Something went wrong
+21:26:46 INFO  manager.MyListener - element click intercepted: Element <a _ngcontent-iey-c44="" class="navigation-link ng-star-inserted" ng-reflect-query-params="[object Object]" ng-reflect-router-link="logout" href="/logout?url=%2Fsearch">...</a> is not clickable at point (1472, 34). Other element would receive the click: <div class="cdk-overlay-backdrop cdk-overlay-dark-backdrop cdk-overlay-backdrop-showing"></div>
+  (Session info: chrome=114.0.5735.199)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-674QB042', ip: '192.168.1.109', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.199, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\Kiril\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58236}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 920a966e91a8d0b0a785221e5b950128
+21:26:46 INFO  manager.MyListener - element click intercepted: Element <a _ngcontent-iey-c44="" class="navigation-link ng-star-inserted" ng-reflect-query-params="[object Object]" ng-reflect-router-link="logout" href="/logout?url=%2Fsearch">...</a> is not clickable at point (1472, 34). Other element would receive the click: <div class="cdk-overlay-backdrop cdk-overlay-dark-backdrop cdk-overlay-backdrop-showing"></div>
+  (Session info: chrome=114.0.5735.199)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-674QB042', ip: '192.168.1.109', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.199, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\Kiril\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58236}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 920a966e91a8d0b0a785221e5b950128
+21:26:46 INFO  manager.MyListener - This is a link to screenshot with error:src/test/screenshots/screenshot-1606.png
+21:26:46 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[.=' Logout ']
+21:26:46 INFO  manager.MyListener - Element with locator -->By.xpath: //a[.=' Logout ']is found
+21:26:46 INFO  manager.MyListener - Start searching element by locator -->By.xpath: //a[normalize-space()='Logout']
+21:26:46 INFO  manager.MyListener - Element with locator -->By.xpath: //a[normalize-space()='Logout']is found
+21:26:47 INFO  manager.MyListener - Something went wrong
+21:26:47 INFO  manager.MyListener - element click intercepted: Element <a _ngcontent-iey-c44="" class="navigation-link ng-star-inserted" ng-reflect-query-params="[object Object]" ng-reflect-router-link="logout" href="/logout?url=%2Fsearch">...</a> is not clickable at point (1472, 34). Other element would receive the click: <div class="cdk-overlay-backdrop cdk-overlay-dark-backdrop cdk-overlay-backdrop-showing"></div>
+  (Session info: chrome=114.0.5735.199)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-674QB042', ip: '192.168.1.109', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.199, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\Kiril\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58236}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 920a966e91a8d0b0a785221e5b950128
+21:26:47 INFO  manager.MyListener - element click intercepted: Element <a _ngcontent-iey-c44="" class="navigation-link ng-star-inserted" ng-reflect-query-params="[object Object]" ng-reflect-router-link="logout" href="/logout?url=%2Fsearch">...</a> is not clickable at point (1472, 34). Other element would receive the click: <div class="cdk-overlay-backdrop cdk-overlay-dark-backdrop cdk-overlay-backdrop-showing"></div>
+  (Session info: chrome=114.0.5735.199)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-674QB042', ip: '192.168.1.109', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.199, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\Kiril\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58236}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 920a966e91a8d0b0a785221e5b950128
+21:26:48 INFO  manager.MyListener - This is a link to screenshot with error:src/test/screenshots/screenshot-1607.png

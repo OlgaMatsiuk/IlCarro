@@ -73,7 +73,7 @@ public class LoginTests extends TestBase {
         }
     }
 
-    @Test(dataProvider = "userModelListDTO", dataProviderClass = ProviderData.class)
+    @Test(dataProvider = "userModelListDTO_CSV", dataProviderClass = ProviderData.class)
     public void loginPositiveUser(User user) {
        // String email = "matsiuk2015@gmail.com", password="Aravaavara0#";
 
