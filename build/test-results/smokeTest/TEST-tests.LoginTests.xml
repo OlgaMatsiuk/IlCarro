@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.LoginTests" tests="9" skipped="0" failures="0" errors="0" timestamp="2023-07-17T18:25:41" hostname="LAPTOP-674QB042" time="39.558">
+  <properties/>
+  <testcase name="loginNegativeUser" classname="tests.LoginTests" time="0.528"/>
+  <testcase name="loginPositive" classname="tests.LoginTests" time="3.549"/>
+  <testcase name="loginPositiveUser" classname="tests.LoginTests" time="2.887"/>
+  <testcase name="loginPositiveUser[0](models.User@544630b7)" classname="tests.LoginTests" time="2.748"/>
+  <testcase name="loginPositiveUser[1](models.User@6c451c9c)" classname="tests.LoginTests" time="2.872"/>
+  <testcase name="loginPositiveUser[2](models.User@3fc08eec)" classname="tests.LoginTests" time="2.804"/>
+  <testcase name="loginPositiveUser[3](models.User@a68df9)" classname="tests.LoginTests" time="2.945"/>
+  <testcase name="loginPositiveUser[4](models.User@b0964b2)" classname="tests.LoginTests" time="2.803"/>
+  <testcase name="loginPositiveUser[5](models.User@6d6cb754)" classname="tests.LoginTests" time="2.806"/>
+  <system-out><![CDATA[Email or password are not valid
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
